@@ -10,7 +10,7 @@ public class tahmin {
     int guess = -1;
 
     while(guess != number) {
-        System.out.println("Prodection : ");
+        System.out.println("Enter Your Guess : ");
         guess = input.nextInt();
 
 
